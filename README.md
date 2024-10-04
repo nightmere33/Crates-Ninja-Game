@@ -1,3 +1,3 @@
-# Crates Ninja Game (full game)
+# Crates Ninja  (full game)
 
 creator : Younes Ouali
